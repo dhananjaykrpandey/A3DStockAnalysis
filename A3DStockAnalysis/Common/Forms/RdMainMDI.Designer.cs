@@ -47,6 +47,8 @@
             this.RdRibTabAboutUs = new Telerik.WinControls.UI.RibbonTab();
             this.RdRibBarGrpSupport = new Telerik.WinControls.UI.RadRibbonBarGroup();
             this.RdBtnAboutUs = new Telerik.WinControls.UI.RadButtonElement();
+            this.radImageButtonElement1 = new Telerik.WinControls.UI.RadImageButtonElement();
+            this.radButtonElement1 = new Telerik.WinControls.UI.RadButtonElement();
             ((System.ComponentModel.ISupportInitialize)(this.RdStatusStrip)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.RdDockMain)).BeginInit();
@@ -213,17 +215,21 @@
             // RdRibBarGrpStockAnalysis
             // 
             this.RdRibBarGrpStockAnalysis.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.RdBtnConvertExcleToText});
+            this.RdBtnConvertExcleToText,
+            this.radImageButtonElement1,
+            this.radButtonElement1});
             this.RdRibBarGrpStockAnalysis.Name = "RdRibBarGrpStockAnalysis";
             this.RdRibBarGrpStockAnalysis.Text = "Stock Analysis";
             // 
             // RdBtnConvertExcleToText
             // 
+            this.RdBtnConvertExcleToText.AutoSize = false;
+            this.RdBtnConvertExcleToText.Bounds = new System.Drawing.Rectangle(0, 0, 67, 66);
             this.RdBtnConvertExcleToText.Image = global::A3DStockAnalysis.Properties.Resources.ConvertFile48X48;
             this.RdBtnConvertExcleToText.ImageAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             this.RdBtnConvertExcleToText.Name = "RdBtnConvertExcleToText";
-            this.RdBtnConvertExcleToText.Tag = "RdFrmExcelToText";
-            this.RdBtnConvertExcleToText.Text = "Excel To Text";
+            this.RdBtnConvertExcleToText.Tag = "RdFrmTraders";
+            this.RdBtnConvertExcleToText.Text = "Traders";
             this.RdBtnConvertExcleToText.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.RdBtnConvertExcleToText.Click += new System.EventHandler(this.RdBtnConvertExcleToText_Click);
             // 
@@ -252,6 +258,20 @@
             this.RdBtnAboutUs.Text = "Support";
             this.RdBtnAboutUs.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.RdBtnAboutUs.Click += new System.EventHandler(this.RdBtnAboutUs_Click);
+            // 
+            // radImageButtonElement1
+            // 
+            this.radImageButtonElement1.Name = "radImageButtonElement1";
+            this.radImageButtonElement1.Text = "radImageButtonElement1";
+            // 
+            // radButtonElement1
+            // 
+            this.radButtonElement1.Image = global::A3DStockAnalysis.Properties.Resources.Analysis48X48;
+            this.radButtonElement1.ImageAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.radButtonElement1.Name = "radButtonElement1";
+            this.radButtonElement1.Tag = "RdFrmMoneyFlow";
+            this.radButtonElement1.Text = "Money Flow";
+            this.radButtonElement1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             // 
             // RdMainMDI
             // 
@@ -302,5 +322,7 @@
         private Telerik.WinControls.UI.RadLabelElement RadLblMessage;
         private Telerik.WinControls.UI.CommandBarSeparator commandBarSeparator2;
         private Telerik.WinControls.UI.RadProgressBarElement RdProgressBar;
+        private Telerik.WinControls.UI.RadImageButtonElement radImageButtonElement1;
+        private Telerik.WinControls.UI.RadButtonElement radButtonElement1;
     }
 }

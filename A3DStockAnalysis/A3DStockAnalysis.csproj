@@ -47,6 +47,9 @@
     <Reference Include="A3DLicense">
       <HintPath>..\..\A3DLicense\bin\Debug\A3DLicense.dll</HintPath>
     </Reference>
+    <Reference Include="A3DStockAnalysisBussiness">
+      <HintPath>..\A3DStockAnalysisBussiness\bin\Debug\A3DStockAnalysisBussiness.dll</HintPath>
+    </Reference>
     <Reference Include="A3DWinUtility">
       <HintPath>..\..\A3DWinUtility\bin\Debug\A3DWinUtility.dll</HintPath>
     </Reference>
@@ -103,6 +106,7 @@
       <HintPath>..\lib\RCWF\2020.2.512.40\Telerik.WinControls.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Telerik.WinControls.GridView, Version=2020.2.512.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
     <Reference Include="Telerik.WinControls.RadDock, Version=2020.2.512.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
     <Reference Include="Telerik.WinControls.Themes.Fluent, Version=2020.2.512.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
     <Reference Include="Telerik.WinControls.Themes.FluentDark, Version=2020.2.512.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
@@ -136,6 +140,18 @@
     <Compile Include="RadForm1.Designer.cs">
       <DependentUpon>RadForm1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Stock\RdFrmMoneyFlow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\RdFrmMoneyFlow.Designer.cs">
+      <DependentUpon>RdFrmMoneyFlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\RdFrmTraders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\RdFrmTraders.Designer.cs">
+      <DependentUpon>RdFrmTraders.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Common\Forms\RdFrmAboutUs.resx">
       <DependentUpon>RdFrmAboutUs.cs</DependentUpon>
     </EmbeddedResource>
@@ -157,6 +173,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Stock\RdFrmTraders.resx">
+      <DependentUpon>RdFrmTraders.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="app.manifest" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -250,7 +269,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Common\Classes\" />
-    <Folder Include="Stock\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\A3D40X45.png" />
@@ -302,6 +320,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Analysis24X24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenFolder16X16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DataUpload16X16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excel16X16.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

@@ -121,14 +121,11 @@
   <data name="DarkTheam24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DarkTheam24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="UnCheckAll20X20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UnCheckAll20X20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Close16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Close16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="A3D" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\A3D.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="UnCheckAll20X20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UnCheckAll20X20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ComapreGraph488X" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ComapreGraph488X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,23 +136,14 @@
   <data name="searchicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\searchicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rupee1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rupee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="A3D2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\A3D2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DownLoad488X" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DownLoad488X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rupee225x225" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rupee225x225.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UnCheckAll16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UnCheckAll16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Rupee36X36" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rupee36X36.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="DownArrowRed9X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DownArrowRed9X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="analysis24X41" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\analysis24X41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,8 +154,8 @@
   <data name="CheckAll20X20" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CheckAll20X20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Rupee225x225" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rupee225x225.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rupee36X36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rupee36X36.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Analysis48X48" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Analysis48X48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,23 +187,29 @@
   <data name="CheckAll16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CheckAll16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="OpenFolder16X14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\OpenFolder16X14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Rupee1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rupee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Rupee" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Rupee.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Reload16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Reload16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="save_all" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save_all.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DownLoad488X" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DownLoad488X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LightTheam24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LightTheam24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="A3D24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A3D24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="A3D40X45" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\A3D40X45.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="A3D24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\A3D24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DownArrowRed9X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DownArrowRed9X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="AboutUs48X48" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\AboutUs48X48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -229,6 +223,15 @@
   <data name="UpArrowGreen8X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UpArrowGreen8X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Analysis24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Analysis24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reload16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Reload16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OpenFolder16X14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OpenFolder16X14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Excel24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Excel24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -238,10 +241,16 @@
   <data name="Rupee16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Rupee16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="save_all" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\save_all.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="A3D" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A3D.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Analysis24X24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Analysis24X24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="OpenFolder16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OpenFolder16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DataUpload16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DataUpload16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Excel16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Excel16X16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -243,6 +243,16 @@ namespace A3DStockAnalysis.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap DataUpload16X16 {
+            get {
+                object obj = ResourceManager.GetObject("DataUpload16X16", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap DownArrowRed9X16 {
             get {
                 object obj = ResourceManager.GetObject("DownArrowRed9X16", resourceCulture);
@@ -266,6 +276,16 @@ namespace A3DStockAnalysis.Properties {
         internal static System.Drawing.Bitmap DownloadAndSave24X24 {
             get {
                 object obj = ResourceManager.GetObject("DownloadAndSave24X24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Excel16X16 {
+            get {
+                object obj = ResourceManager.GetObject("Excel16X16", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -306,6 +326,16 @@ namespace A3DStockAnalysis.Properties {
         internal static System.Drawing.Bitmap OpenFolder16X14 {
             get {
                 object obj = ResourceManager.GetObject("OpenFolder16X14", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap OpenFolder16X16 {
+            get {
+                object obj = ResourceManager.GetObject("OpenFolder16X16", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
