@@ -61,11 +61,71 @@ namespace A3DStockAnalysis.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon A3D {
+            get {
+                object obj = ResourceManager.GetObject("A3D", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap A3D2 {
+            get {
+                object obj = ResourceManager.GetObject("A3D2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap A3D24X24 {
+            get {
+                object obj = ResourceManager.GetObject("A3D24X24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap A3D40X45 {
+            get {
+                object obj = ResourceManager.GetObject("A3D40X45", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap AboutUs48X48 {
+            get {
+                object obj = ResourceManager.GetObject("AboutUs48X48", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap analysis16X16 {
             get {
                 object obj = ResourceManager.GetObject("analysis16X16", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Analysis24X24 {
+            get {
+                object obj = ResourceManager.GetObject("Analysis24X24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +173,16 @@ namespace A3DStockAnalysis.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap CheckAll20X20 {
+            get {
+                object obj = ResourceManager.GetObject("CheckAll20X20", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Close16X16 {
             get {
                 object obj = ResourceManager.GetObject("Close16X16", resourceCulture);
@@ -136,6 +206,36 @@ namespace A3DStockAnalysis.Properties {
         internal static System.Drawing.Bitmap ComapreGraph488X {
             get {
                 object obj = ResourceManager.GetObject("ComapreGraph488X", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ConvertFile24X24 {
+            get {
+                object obj = ResourceManager.GetObject("ConvertFile24X24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ConvertFile48X48 {
+            get {
+                object obj = ResourceManager.GetObject("ConvertFile48X48", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DarkTheam24X24 {
+            get {
+                object obj = ResourceManager.GetObject("DarkTheam24X24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,6 +283,46 @@ namespace A3DStockAnalysis.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap info {
+            get {
+                object obj = ResourceManager.GetObject("info", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LightTheam24X24 {
+            get {
+                object obj = ResourceManager.GetObject("LightTheam24X24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap OpenFolder16X14 {
+            get {
+                object obj = ResourceManager.GetObject("OpenFolder16X14", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap OpenFolder22X22 {
+            get {
+                object obj = ResourceManager.GetObject("OpenFolder22X22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Reload16X16 {
             get {
                 object obj = ResourceManager.GetObject("Reload16X16", resourceCulture);
@@ -196,6 +336,16 @@ namespace A3DStockAnalysis.Properties {
         internal static System.Drawing.Bitmap Reverse24X24 {
             get {
                 object obj = ResourceManager.GetObject("Reverse24X24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Rocket22X22 {
+            get {
+                object obj = ResourceManager.GetObject("Rocket22X22", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -306,6 +456,16 @@ namespace A3DStockAnalysis.Properties {
         internal static System.Drawing.Bitmap UnCheckAll16X16 {
             get {
                 object obj = ResourceManager.GetObject("UnCheckAll16X16", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap UnCheckAll20X20 {
+            get {
+                object obj = ResourceManager.GetObject("UnCheckAll20X20", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
